@@ -1,0 +1,31 @@
+{
+  "name": "mcp-healthcare-provider-npi-enricher",
+  "displayName": "Healthcare Provider NPI Enricher",
+  "version": "1.0.0",
+  "description": "MCP server for Healthcare Provider NPI Enricher. Turn NPIs or provider names into NPI Registry records with taxonomy and practice address. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-healthcare-provider-npi-enricher",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "npi",
+    "nppes",
+    "healthcare",
+    "provider",
+    "enrichment"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "npi",
+    "nppes",
+    "healthcare",
+    "provider",
+    "enrichment"
+  ],
+  "mcpServers": ".mcp.json"
+}

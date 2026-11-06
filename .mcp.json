@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-healthcare-provider-npi-enricher": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-healthcare-provider-npi-enricher"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
