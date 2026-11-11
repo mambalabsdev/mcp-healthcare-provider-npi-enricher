@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-healthcare-provider-npi-enricher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Healthcare Provider NPI Enricher. Turn NPIs or provider names into NPI Registry records with taxonomy and practice address. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs"
